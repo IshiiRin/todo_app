@@ -3,7 +3,7 @@ package config
 import (
 	"log"
 
-	"go_lesson/todo_app/utils"
+	"todo_app/utils"
 
 	"gopkg.in/go-ini/ini.v1"
 )

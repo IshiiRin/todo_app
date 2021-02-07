@@ -4,8 +4,8 @@ import (
 	"crypto/sha1"
 	"database/sql"
 	"fmt"
-	"go_lesson/todo_app/config"
 	"log"
+	"todo_app/config"
 
 	"github.com/google/uuid"
 	_ "github.com/mattn/go-sqlite3"
