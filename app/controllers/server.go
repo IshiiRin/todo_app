@@ -37,5 +37,6 @@ func StartMainServer() error {
 	http.HandleFunc("/login", login)
 	http.HandleFunc("/authenticate", authenticate)
 	http.HandleFunc("/todos", index)
+	http.HandleFunc("/logout", logout)
 	return http.ListenAndServe(":"+config.Config.Port, nil)
 }

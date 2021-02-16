@@ -1,8 +1,0 @@
-2021/02/15 07:42:02 users.go:110: near "uuid": syntax error
-2021/02/15 07:42:02 main.go:19: sql: no rows in result set
-2021/02/15 08:01:54 cookie.go:397: net/http: invalid byte '\x01' in Cookie.Value; dropping invalid bytes
-2021/02/15 08:02:54 route_auth.go:37: sql: no rows in result set
-2021/02/15 08:02:54 server.go:3056: http: superfluous response.WriteHeader call from todo_app/app/controllers.authenticate (route_auth.go:54)
-2021/02/15 08:04:13 cookie.go:397: net/http: invalid byte '\x01' in Cookie.Value; dropping invalid bytes
-2021/02/15 08:04:19 route_auth.go:37: sql: no rows in result set
-2021/02/15 08:04:19 server.go:3056: http: superfluous response.WriteHeader call from todo_app/app/controllers.authenticate (route_auth.go:54)
